@@ -1,6 +1,7 @@
+streamlit
 diffusers
 torch
 torchvision
-streamlit
 numpy
 huggingface-hub
+pillow
