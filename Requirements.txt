@@ -4,4 +4,3 @@ torchvision
 streamlit
 numpy
 huggingface-hub
-pyngrok
