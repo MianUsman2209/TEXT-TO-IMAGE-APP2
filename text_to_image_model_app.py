@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/19cY282HaHHxTo9UT7S7D5DmICMEAMOIK
 """
 
-!pip install pyngrok
+
 
 from pyngrok import ngrok
 
